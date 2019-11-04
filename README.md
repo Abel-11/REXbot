@@ -1,1 +1,1 @@
-# REXbot
+Robot siguelineas fabricado con placa de microchip en vez de un arduino. Solo tiene una velocidad pero la placa puede personalizarse para ponerle tanto interruptores como botones para asi poder cambiar las velocidades sin recurrir a reprogramar.
