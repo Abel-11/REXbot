@@ -1,1 +1,1 @@
-Robot siguelineas fabricado con placa de microchip en vez de un arduino. Solo tiene una velocidad pero la placa puede personalizarse para ponerle tanto interruptores como botones para asi poder cambiar las velocidades sin recurrir a reprogramar.
+Robot siguelineas fabricado con placa de microchip. La placa utilizada está subida en este repositorio "https://github.com/Abel-11/Rosatron"
